@@ -10,6 +10,8 @@ This project was launched to provide anyone willing to know more about the geogr
 
 The best side of this project is that map is interactive, the user can zoom it in or out and move through the continents just moving mouse cursor. The data is visual and easy to understand intuitively, for example, coloring of markers and areas of continents. The information that map provides user with can be used in different ways from making charts of most film-advanced nation to rating areas with the highest film density. In other words, all user need is to know the coordinates of the area he/she is interested in and have a browser to open a map.
 
+To run the application you need to download whole repository and then run mapmaster.py
+--------------------------------------------------------------------------------------------------------------------------------------
 ## Structure of HTML map
 
 ```<head>``` - information about HTML document <br />
